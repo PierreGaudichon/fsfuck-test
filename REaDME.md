@@ -1,5 +1,5 @@
-JSFuck
-======
+JSFuck, test
+============
 
 Test if a gzipped [jsfuck](http://www.jsfuck.com/) is lighter than a regular
 gzipped file.
